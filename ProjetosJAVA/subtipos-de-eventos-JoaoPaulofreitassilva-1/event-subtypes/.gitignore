@@ -1,0 +1,19 @@
+ECHO est  ativado.
+# Ignorar diretórios do sistema
+Ambiente de Impressão/
+Ambiente de Rede/
+Configurações Locais/
+Cookies/
+Menu Iniciar/
+Meus Documentos/
+Modelos/
+Recent/
+SendTo/
+
+# Ignorar arquivos temporários ou do sistema
+*.tmp
+*.log
+
+# Ignorar pastas específicas do projeto
+node_modules/
+.vscode/
