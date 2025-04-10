@@ -1,1 +1,29 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/TuO9yIkN)
+# Subtipos de Eventos
+
+Este projeto foi desenvolvido como parte da disciplina de Engenharia de Software na PUC Minas - São Gabriel.
+
+## 📌 Objetivo
+
+O objetivo do projeto é explorar e aplicar os conceitos de subtipos de eventos em Java, organizando a estrutura e o comportamento conforme as boas práticas de orientação a objetos.
+
+## 🛠️ Tecnologias Utilizadas
+
+- Java
+- IntelliJ IDEA / Eclipse (ou sua IDE preferida)
+- Git & GitHub
+
+## 📁 Organização
+
+O projeto contém:
+- Classes principais representando os eventos e seus subtipos
+- Testes e exemplos de uso
+- Comentários explicativos
+
+## 👨‍💻 Autor
+
+João Paulo Freitas Silva  
+Aluno de Engenharia de Software – PUC Minas
+
+---
+
+📌 Este repositório está aberto para visualização dos professores e colegas.
